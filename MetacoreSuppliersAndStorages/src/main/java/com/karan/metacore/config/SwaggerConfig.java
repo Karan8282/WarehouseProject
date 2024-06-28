@@ -33,12 +33,12 @@ public class SwaggerConfig {
 				"WAREHOUSE APPLICATION", 
 				"MetaCorp Logistcs Pvt Co.", 
 				"3.2GA", 
-				"http://nareshit.in", 
-				new Contact("Mr. RAGHU", 
-						"http://nareshit.in", 
-						"javabyraghu@gmail.com"), 
-				"NIT LICENCE", 
-				"http://nareshit.in", 
+				"http://google.com", 
+				new Contact("Mr. Karan", 
+						"http://google.com", 
+						"karanbundele37@gmail.com"), 
+				"WH LICENCE", 
+				"http://google.com", 
 				List.of());
 	}
 }
